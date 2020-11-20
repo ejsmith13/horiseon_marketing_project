@@ -94,8 +94,8 @@ p {
 }
 
  /* consolidated benefits classes since they are using same style commands.*/
-.benefit-lead
-.benefit-brand
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -128,7 +128,10 @@ h3 {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -137,7 +140,7 @@ h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {
+/* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -153,7 +156,7 @@ h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
 .search-engine-optimization img {
     max-height: 200px;
