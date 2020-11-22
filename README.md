@@ -11,7 +11,7 @@ https://ejsmith13.github.io/horiseon_marketing_project/
 I am including a link to a screenshot of the completed site as well:
 
 ```md
-![screenshot](https://github.com/ejsmith13/horiseon_marketing_project/blob/main/images/screenshot.png)
+![screenshot](images/screenshot.png)
 ```
 
 
