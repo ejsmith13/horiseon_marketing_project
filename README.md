@@ -9,9 +9,8 @@ The deployed site can be found at:
 https://ejsmith13.github.io/horiseon_marketing_project/
 
 I am including a link to a screenshot of the completed site as well:
-
 ```md
-![Alt text](images/screenshot.png?raw=true)
+![alt text](assets/images/screenshot.png)
 ```
 
 
