@@ -11,7 +11,7 @@ https://ejsmith13.github.io/horiseon_marketing_project/
 I am including a link to a screenshot of the completed site as well:
 
 ```md
-![alt text](images/screenshot.png)
+![image](images/screenshot.png)
 ```
 
 
